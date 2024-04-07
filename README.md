@@ -1,6 +1,7 @@
 Hi! This is an implementation of a traveling trip schedule for one person using classes in Python.
 
 There are 3 classes utilized to make this happen:
+
 1.) Date class:
  - Implements calendar dates occurring on or after January 1, 1800.
  - An instance input includes a month, day, and year.
